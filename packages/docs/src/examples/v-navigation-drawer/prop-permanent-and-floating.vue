@@ -1,6 +1,6 @@
 <template>
   <v-card
-    class="pa-12"
+    class="pa-13"
     color="indigo darken-2"
     flat
   >
